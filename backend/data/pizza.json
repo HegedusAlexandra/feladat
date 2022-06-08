@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Cotto e Funghi",
+    "ingredients": "San Marzano paradicsom D.O.P., mozzarella, főtt sonka, gomba",
+    "image": "img/cottoefunghi.jpg"
+  },
+
+  {
+    "name": "Cinque Formaggi",
+    "ingredients": "Gorgonzola, mozzarella, scamorza, füstölt sajt, parmezán, bivaly mozzarella, bazsalikom, olívaolaj",
+    "image": "img/cinqueformaggi.jpg"
+  },
+
+  {
+    "name": "Prosciutto Parma",
+    "ingredients": "San Marzano paradicsom D.O.P., mozzarella, pármai sonka, bivaly mozzarella, rukkola, pecorino, olivaolaj",
+    "image": "img/prosciuttodiparma.jpg"
+  },
+
+  {
+    "name": "Marinara",
+    "ingredients": "San Marzano paradicsom D.O.P, fokhagyma, oregánó, olivaolaj",
+    "image": "img/marinara.jpg"
+  },
+
+  {
+    "name": "Buffala",
+    "ingredients": "San Marzano paradicsom D.O.P, bivaly mozzarella D.O.P., bazsalikom, olivaolaj",
+    "image": "img/buffala.jpg"
+  },
+
+  {
+    "name": "Maradona Napoli",
+    "ingredients": "Ricotta alap, mozzarella, főtt sonka, pancetta, dió, narancslekvár, rukkola, olívaolaj",
+    "image": "img/maradona.jpg"
+  },
+
+  {
+    "name": "Tonno e Cipolla",
+    "ingredients": "San Marzano paradicsom D.O.P., mozzarella, tonhal, lilahagyma, olivabogyó, kapribogyó, olivaolaj",
+    "image": "img/tonno.jpg"
+  }
+]
